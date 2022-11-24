@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Andre/Visual SC Work/assignment-12-Andreas-Bugge/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mylib.dir\\src\\duration.cpp.obj -c \"C:\\Users\\Andre\\Visual SC Work\\assignment-12-Andreas-Bugge\\src\\duration.cpp\"",
+  "file": "C:/Users/Andre/Visual SC Work/assignment-12-Andreas-Bugge/src/duration.cpp"
+},
+{
+  "directory": "C:/Users/Andre/Visual SC Work/assignment-12-Andreas-Bugge/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -g -O0 -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\Andre\\Visual SC Work\\assignment-12-Andreas-Bugge\\src\\main.cpp\"",
+  "file": "C:/Users/Andre/Visual SC Work/assignment-12-Andreas-Bugge/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Andre/Visual SC Work/assignment-12-Andreas-Bugge/build/tests",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c \"C:\\Users\\Andre\\Visual SC Work\\assignment-12-Andreas-Bugge\\tests\\src\\tests.cpp\"",
+  "file": "C:/Users/Andre/Visual SC Work/assignment-12-Andreas-Bugge/tests/src/tests.cpp"
+}
+]
